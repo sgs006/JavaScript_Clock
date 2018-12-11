@@ -1,7 +1,5 @@
 # JavaScript_Clock
-
-Part 2 of Wes Bos JavaScript30 course
-
+Part 2 of Wes Bos JavaScript30 course. Starter HTML/CSS is provided and JavaScript functionality is added during the course of the project.
 
 ## Table of contents
 * [General info](#general-info)
@@ -22,4 +20,6 @@ Project is created with:
 No special frameworks or dependencies. 
 	
 ## Setup
-To see this project click here: [https://sgs006.github.io/javascript-clock/]
+To see this project click here: https://sgs006.github.io/javascript-clock
+
+
